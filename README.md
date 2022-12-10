@@ -40,7 +40,7 @@ Setelah itu, setiap subnet akan dihitung jumlah IP yang dibutuhkan dan netmask y
 VLSM Tree
 Setelah mendapatkan jumlah IP setiap subnet, akan dibuat Tree berdasarkan topologi. Pada subnet induk memiliki NID 10.4.0.0 dengan netmask /21 sehingga pembagian IP dilakukan berdasarkan NID dan Netmask yang didapat hingga mencapai subnet terbawah.
 
-iamge
+![Alt text](/img/g3.png)
 
 Lalu, kita mendapatkan IP untuk masing-masing subnet.
 
