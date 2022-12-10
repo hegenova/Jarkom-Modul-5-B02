@@ -13,7 +13,7 @@ Soal dan Jawaban
 
 ## Topologi
 
-image
+![Alt text](/img/g1.png)
 
 Eden adalah DNS Server
 WISE adalah DHCP Server
@@ -28,7 +28,7 @@ Dalam mengerjakan soal ini, kami menggunakan teknik VLSM dengan menggunakan GNS3
 
 Pembagian Subnet
 
-image
+![Alt text](/img/g2.png)
 
 Hal pertama yang dilakukan adalah menentukan subnet-subnet pada topologi. Pembagian subnet berdasarkan setiap node yang terhubung melalui switch ataupun tidak, dalam satu daerah.
 
